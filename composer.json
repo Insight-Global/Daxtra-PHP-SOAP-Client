@@ -1,0 +1,14 @@
+{
+  "name": "Daxtra PHP SOAP",
+  "description": "Soap Service",
+  "license": "",
+  "authors": [
+    {
+      "name": "Anthony daCosta",
+      "email": "anthony.dacosta@insightglobal.net",
+      "role": "Lead Developer"
+    }
+  ],
+  "require": {
+  }
+}
